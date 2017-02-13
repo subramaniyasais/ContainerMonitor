@@ -1,4 +1,3 @@
-# ContainerMonitor
 # Container_VIrtualization - Academic Project
 Virtualization: Container Resource analysis and Performance Management
 
